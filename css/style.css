@@ -1,5 +1,6 @@
 body {
-    font-family: 'Cinzel';
+    font-family: 'Montserrat';
+    font-variant: 'Thin';
     background-image: url(img/random.png);
     overflow: hidden;
 }
@@ -34,7 +35,7 @@ h1 {
   position: absolute;
   height: 97.5%;
   width: 98.5%;
-  background-color:rgba(0, 0, 0, 0.95);
+  background-color:rgba(0, 0, 0, 0.9);
 }
 
 .middle {
@@ -52,7 +53,7 @@ main p {
 }
 
 a.emaillink:link, a.emaillink:active {
-    color: white;
+    color: yellow;
     font-size: 1.4em;
     letter-spacing: 0.19em;
     text-decoration: none;
@@ -64,7 +65,7 @@ a.emaillink:hover {
 
 .forritanemail {
   -webkit-animation-duration: 2s;
-  -webkit-animation-delay: 11s;
+  -webkit-animation-delay: 7s;
   -webkit-animation-iteration-count: infinite;
   -moz-animation-duration: 2s;
   -moz-animation-delay: 11s;
